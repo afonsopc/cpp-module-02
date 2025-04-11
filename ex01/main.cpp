@@ -6,13 +6,13 @@
 /*   By: afpachec <afpachec@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/11 21:09:23 by afpachec          #+#    #+#             */
-/*   Updated: 2025/04/11 23:12:33 by afpachec         ###   ########.fr       */
+/*   Updated: 2025/04/11 23:25:40 by afpachec         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Fixed.hpp"
 
-int main( void ) {
+int main(void) {
 	Fixed		a;
 	Fixed const	b(10);
 	Fixed const	c(42.42f);
